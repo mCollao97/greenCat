@@ -1,2 +1,1 @@
-# greenCat
-random stuff, personal things without any order, order things is boring
+#Personal code, learning how to document proyects, hope this can be usefull for someone someday.
